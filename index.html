@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Stardew Launcher</title>
+  <link href="tailwind.css" rel="stylesheet">
+  <script src="renderer.js" defer></script>
+</head>
+<<body class="bg-gray-900 text-white font-sans">
+  <div class="container mx-auto py-10 text-center">
+    <img src="assets/sdv_logo.png"
+         alt="Stardew Valley Logo"
+         class="w-48 mx-auto mb-6 rounded-xl shadow-xl ring-2 ring-yellow-500 hover:scale-105 transition-transform duration-300" />
+
+    <h1 class="text-4xl font-bold mb-4" data-i18n="title">Stardew Launcher</h1>
+
+    <div class="flex justify-center gap-4 my-4">
+      <button onclick="launch('steam')" class="px-6 py-2 bg-blue-500 text-white rounded" data-i18n="play_steam">Play on Steam</button>
+      <button onclick="launch('gog')" class="px-6 py-2 bg-purple-500 text-white rounded" data-i18n="play_gog">Play on GOG</button>
+    </div>
+
+    <select id="lang-select" class="mt-4 p-2 border rounded">
+      <option value="en">English</option>
+      <option value="ru">Русский</option>
+      <option value="de">Deutsch</option>
+      <option value="es">Español</option>
+      <option value="it">Italiano</option>
+      <option value="ja">日本語</option>
+      <option value="zh">中文</option>
+    </select>
+
+    <h2 class="text-2xl mt-8 mb-2" data-i18n="news">Latest News</h2>
+    <div id="news" class="max-w-2xl mx-auto text-left p-4 bg-white rounded shadow"></div>
+
+    <div class="mt-6 space-x-4">
+      <a href="https://forums.stardewvalley.net/" target="_blank" class="text-blue-600 underline" data-i18n="forum">Forum</a>
+      <a href="https://www.curseforge.com/stardewvalley" target="_blank" class="text-blue-600 underline" data-i18n="mods_curse">Mods (CurseForge)</a>
+      <a href="https://www.nexusmods.com/stardewvalley" target="_blank" class="text-blue-600 underline" data-i18n="mods_nexus">Mods (NexusMods)</a>
+    </div>
+  </div>
+</body>
+</html>

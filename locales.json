@@ -1,0 +1,65 @@
+{
+  "en": {
+    "title": "Stardew Launcher",
+    "play_steam": "Play on Steam",
+    "play_gog": "Play on GOG",
+    "news": "Latest News",
+    "forum": "Forum",
+    "mods_curse": "Mods (CurseForge)",
+    "mods_nexus": "Mods (NexusMods)"
+  },
+  "ru": {
+    "title": "Стардью Лаунчер",
+    "play_steam": "Играть через Steam",
+    "play_gog": "Играть через GOG",
+    "news": "Последние новости",
+    "forum": "Форум",
+    "mods_curse": "Моды (CurseForge)",
+    "mods_nexus": "Моды (NexusMods)"
+  },
+  "de": {
+    "title": "Stardew Launcher",
+    "play_steam": "Spielen über Steam",
+    "play_gog": "Spielen über GOG",
+    "news": "Neueste Nachrichten",
+    "forum": "Forum",
+    "mods_curse": "Mods (CurseForge)",
+    "mods_nexus": "Mods (NexusMods)"
+  },
+  "es": {
+    "title": "Lanzador de Stardew",
+    "play_steam": "Jugar en Steam",
+    "play_gog": "Jugar en GOG",
+    "news": "Últimas Noticias",
+    "forum": "Foro",
+    "mods_curse": "Mods (CurseForge)",
+    "mods_nexus": "Mods (NexusMods)"
+  },
+  "it": {
+    "title": "Launcher di Stardew",
+    "play_steam": "Gioca su Steam",
+    "play_gog": "Gioca su GOG",
+    "news": "Ultime Notizie",
+    "forum": "Forum",
+    "mods_curse": "Mod (CurseForge)",
+    "mods_nexus": "Mod (NexusMods)"
+  },
+  "ja": {
+    "title": "スターデューバレーローンチャー",
+    "play_steam": "Steamでプレイ",
+    "play_gog": "GOGでプレイ",
+    "news": "最新ニュース",
+    "forum": "フォーラム",
+    "mods_curse": "MOD (CurseForge)",
+    "mods_nexus": "MOD (NexusMods)"
+  },
+  "zh": {
+    "title": "星露谷启动器",
+    "play_steam": "通过 Steam 启动",
+    "play_gog": "通过 GOG 启动",
+    "news": "最新消息",
+    "forum": "论坛",
+    "mods_curse": "模组 (CurseForge)",
+    "mods_nexus": "模组 (NexusMods)"
+  }
+}
