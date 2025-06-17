@@ -9,7 +9,7 @@
   "dependencies": {
     "electron": "^29.0.0",
     "i18next": "^23.5.0",
-    "electron-store": "^8.1.0",
+    "electron-store": "^10.1.0",
     "node-fetch": "^3.3.2"
   }
 }
